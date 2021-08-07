@@ -1,5 +1,7 @@
-body,html{
-    margin: 0;
-    padding: 0;
-    background-color: blue;
-}
+@import "./theme/base";
+@import "./theme/fonts";
+@import "./theme/colors";
+@import "./theme/typography";
+
+@import "./components/header";
+@import "./components/footer";
