@@ -6,7 +6,7 @@
   "scripts": {
     "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "node-sass --watch scss -o css",
+    "scss": "node-sass --watch scss scss/styles.scss -o css",
     "serve": "live-server",
     "dev": "npm-run-all -p scss serve",
     "build": "gulp build"
