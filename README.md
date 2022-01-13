@@ -10,7 +10,7 @@ run command in terminal `npm start`
 
 run command in terminal `npm run dev`
 
-## How to build for productiont
+## How to build for production
 
 run command in terminal `npm run build`
 find `production` folder with all updated html. Now you can deploye production folder to your server.
