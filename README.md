@@ -1,4 +1,4 @@
-# ui-setup
+# UI-setup
 
 Base reusable project setup to develop UI/UX.
 
@@ -57,4 +57,3 @@ Refer `https://www.xml-sitemaps.com/`
 
 Refer `https://www.xml-sitemaps.com/`
 
-## production checklist
