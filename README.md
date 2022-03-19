@@ -1,4 +1,4 @@
-# UI-setup
+# Web UI Quick Start Framework
 
 Base reusable project setup to develop UI/UX.
 
@@ -13,7 +13,7 @@ run command in terminal `npm run dev`
 ## How to build for production
 
 run command in terminal `npm run build`
-find `production` folder with all updated html. Now you can deploye production folder to your server.
+find `production` folder with all updated html. Now you can deploy production folder to your server.
 make sure that all html files are in root folder
 
 ## how to setup gulp?
@@ -56,4 +56,3 @@ Refer `https://www.xml-sitemaps.com/`
 ### Robots.txt generator
 
 Refer `https://www.xml-sitemaps.com/`
-

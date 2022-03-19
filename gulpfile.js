@@ -76,7 +76,7 @@ gulp.task("move-fonts-to-production", function (cb) {
   cb();
 });
 
-gulp.task("move-other-required-files-to-production", function (cb) {
+gulp.task("move-other-files-to-production", function (cb) {
   gulp
     .src([
       "./browserconfig.xml",
@@ -97,7 +97,7 @@ gulp.task(
     "replace-css-js-links-to-builds",
     "move-assets-to-production",
     "move-fonts-to-production",
-    "move-other-required-files-to-production",
+    "move-other-files-to-production",
     function (cb) {
       cb();
     }
